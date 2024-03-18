@@ -9,6 +9,8 @@ ib-insync = "*"
 nest-asyncio = "*"
 lightweight-charts = "*"
 pandas-ta = "*"
+pyqt5 = "*"
+pandas = "*"
 
 [dev-packages]
 
